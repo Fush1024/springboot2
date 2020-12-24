@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 〈一句话功能简述〉<br> 
+ * 〈springboot2〉<br>
  * 〈〉
  *
  * @author FUSH
